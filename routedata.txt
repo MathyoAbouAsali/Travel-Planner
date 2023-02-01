@@ -1,0 +1,150 @@
+Paris,New York,312,13
+Paris,San Francisco,451,16
+Paris,London,69,1
+Paris,Los Angeles,489,37
+New York,London,382,7
+New York,Los Angeles,154,6
+New York,San Francisco,196,6
+New York,Chicago,10,9
+New York,Paris,415,14
+London,New York,399,8
+London,Paris,74,1
+London,Rome,25,2
+London,Los Angeles,480,26
+London,San Francisco,528,16
+Bangkok,New York,399,8
+Bangkok,Paris,74,2
+Bangkok,Rome,25,3
+Bangkok,Los Angeles,480,27
+Bangkok,San Francisco,528,17
+Hong Kong,Bangkok,204,3
+Hong Kong,Singapore,201,5
+Hong Kong,Tokyo,358,5
+Hong Kong,San Francisco,820,23
+Hong Kong,Los Angeles,1009,22
+Hong Kong,Beijing,396,16
+Hong Kong,New York,1379,32
+Dubai,New York,852,20
+Dubai,London,527,19
+Dubai,San Francisco,862,22
+Singapore,New York,852,20
+Singapore,London,527,19
+Singapore,San Francisco,862,22
+Rome,Paris,32,3
+Rome,London,23,3
+Rome,Barcelona,40,2
+Rome,Madrid,41,3
+Rome,New York,292,14
+Rome,Los Angeles,487,26
+Rome,Chicago,413,32
+Barcelona,Paris,33,2
+Barcelona,Lisbon,20,2
+Barcelona,Rome,39,2
+Barcelona,New York,323,16
+Barcelona,San Francisco,382,31
+Barcelona,Madrid,48,2
+Barcelona,London,24,3
+Barcelona,Los Angeles,458,13
+Barcelona,Amsterdam,95,3
+Macau,Paris,53,2
+Macau,Lisbon,20,2
+Macau,Rome,39,2
+Macau,New York,323,16
+Macau,San Francisco,382,30
+Macau,Madrid,48,3
+Macau,London,24,3
+Macau,Los Angeles,458,13
+Macau,Amsterdam,95,3
+Istanbul,Dubai,401,5
+Istanbul,New York,397,33
+Istanbul,Antalya,83,1
+Istanbul,Los Angeles,474,32
+Istanbul,San Francisco,485,21
+Istanbul,Chicago,449,21
+Kuala Lumpur,Dubai,401,5
+Kuala Lumpur,New York,397,33
+Kuala Lumpur,Antalya,83,2
+Kuala Lumpur,Los Angeles,474,33
+Kuala Lumpur,San Francisco,485,22
+Kuala Lumpur,Chicago,449,21
+Delhi,San Francisco,1121,30
+Delhi,New York,926,25
+Delhi,Dubai,293,8
+Tokyo,San Francisco,1121,30
+Tokyo,Dubai,293,8
+Antalya,Istanbul,77,2
+Antalya,Delhi,682,13
+Antalya,London,66,5
+Mexico City,Los Angeles,235,11
+Mexico City,Chicago,191,5
+Moscow,Los Angeles,235,11
+Moscow,Chicago,191,5
+Porto,Madrid,24,2
+Porto,Barcelona,29,2
+Porto,Lisbon,84,1
+Porto,Paris,31,3
+Porto,New York,396,16
+Porto,London,25,3
+Porto,Amsterdam,126,3
+San Francisco,Los Angeles,92,2
+San Francisco,New York,459,6
+Beijing,Bangkok,527,18
+Beijing,Los Angeles,1957,24
+Beijing,San Francisco,2050,35
+Beijing,New York,2055,43
+Beijing,London,895,20
+Beijing,Chicago,3270,39
+Beijing,Hong Kong,462,20
+Beijing,Singapore,670,22
+Beijing,Tokyo,621,17
+Los Angeles,Bangkok,527,18
+Los Angeles,Los Angeles,1957,24
+Los Angeles,San Francisco,2020,35
+Los Angeles,New York,2055,43
+Los Angeles,London,895,20
+Los Angeles,Chicago,3270,29
+Los Angeles,Hong Kong,462,20
+Los Angeles,Singapore,670,22
+Los Angeles,Tokyo,621,17
+Chicago,Los Angeles,516,5
+Chicago,New York,347,3
+Chicago,Mexico City,219,5
+Abu Dhabi,Los Angeles,852,39
+Abu Dhabi,New York,590,36
+Abu Dhabi,Chicago,1066,18
+Abu Dhabi,San Francisco,1457,19
+Amsterdam,London,73,2
+Amsterdam,Barcelona,97,3
+Amsterdam,Paris,148,2
+Amsterdam,Lisbon,90,3
+Amsterdam,Los Angeles,470,14
+Amsterdam,Rome,111,3
+Amsterdam,Chicago,425,15
+Amsterdam,Madrid,91,3
+Madrid,Paris,29,3
+Madrid,Lisbon,21,2
+Madrid,Barcelona,48,2
+Madrid,Porto,24,2
+Madrid,Rome,42,3
+Madrid,London,27,3
+Madrid,New York,337,12
+Madrid,Chicago,370,20
+Sydney,Los Angeles,747,17
+Sydney,San Francisco,881,34
+Sydney,Singapore,662,18
+San Miguel de Allende,Los Angeles,747,17
+San Miguel de Allende,San Francisco,881,34
+San Miguel de Allende,Singapore,662,18
+Lisbon,Barcelona,21,2
+Lisbon,Madrid,27,2
+Lisbon,Rome,45,3
+Lisbon,Porto,77,1
+Lisbon,New York,400,13
+Lisbon,London,25,3
+Lisbon,San Francisco,580,21
+Lisbon,Los Angeles,573,35
+Vienna,London,31,3
+Vienna,Rome,30,2
+Vienna,Barcelona,34,3
+Vienna,New York,329,17
+Vienna,Paris,42,2
